@@ -1,0 +1,7 @@
+{
+  "name": "En-Direct-Mobile-Prototype",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
